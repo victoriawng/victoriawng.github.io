@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "56f61a62"
+  },
+  "about.qmd": {
+    "about.html": "0b00d1e5"
+  },
+  "projects.qmd": {
+    "projects.html": "1b3efed5"
+  },
+  "projects/EDA/EDA.qmd": {
+    "EDA.html": "865b139b"
+  },
+  "projects/capstone/capstone.qmd": {
+    "capstone.html": "926ee3a2"
+  }
+}
