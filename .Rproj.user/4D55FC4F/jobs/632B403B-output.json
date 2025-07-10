@@ -11,3 +11,5 @@
 [1,"GET: /projects.html\n"]
 [1,"GET: /projects.html\n"]
 [1,"GET: /projects.html\n"]
+[1,"ERROR: 500 (Internal Error): Cannot read properties of undefined (reading 'config')\n"]
+[1,"ERROR: Unexpected error while scanning for file changes: Cannot read properties of undefined (reading 'files')\n"]

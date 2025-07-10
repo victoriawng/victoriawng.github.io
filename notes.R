@@ -32,9 +32,17 @@
 # create workflows folder in .github folder
 # then "publish.yml" in workflows folder lol
 
+# copy and paste "publish action" into publish.yml
+# change branch push in the file to master if applicable
+
+# in terminal
+# quarto publish gh-pages
+
+# ---
+# quarto render
 
 
-
+au
 
 
 
