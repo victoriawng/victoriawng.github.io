@@ -1,9 +1,0 @@
-/.quarto/
-/_site/
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-*.DS_Store
-*.Rproj
-notes.R
