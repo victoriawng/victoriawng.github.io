@@ -1,11 +1,15 @@
 ---
-title: "ʕ•́ᴥ•̀ʔっ welcome (ง︡'-'︠)ง"
+# title: "ʕ•́ᴥ•̀ʔっ welcome (ง︡'-'︠)ง"
+title: "welcome ʕ•́ᴥ•̀ʔっ"
 about:
   template: jolla
   image: assets/pfp.jpg
   # image-shape: round
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:your_email@abc.com
+  # links:
+  #   - icon: envelope
+  #     text: Email
+  #     href: mailto:victorianguyen.edu@gmail.com
+    # - icon: linkedin
+    #   text: Linkedin
+    #   href: https://www.linkedin.com/in/victoriawng/
 ---
