@@ -1,1 +1,5 @@
 /* css styles */
+/* Remove the horizontal line above social links in about section */
+.quarto-about-jolla .about-links::before {
+  display: none;
+}
