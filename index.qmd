@@ -5,11 +5,22 @@ about:
   template: jolla
   image: assets/pfp.jpg
   # image-shape: round
-  # links:
-  #   - icon: envelope
-  #     text: Email
-  #     href: mailto:victorianguyen.edu@gmail.com
-    # - icon: linkedin
-    #   text: Linkedin
-    #   href: https://www.linkedin.com/in/victoriawng/
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/victoriawng/
+    - icon: github
+      text: GitHub
+      href: https://github.com/victoriawng
+    - icon: envelope
+      text: Email
+      href: mailto:victorianguyen.edu@gmail.com
 ---
+I’m Victoria Nguyen!  
+  
+This site is currently under construction 🚧   
+as I prepare to graduate in May 2026  
+and apply for my first full-time role in data.  
+˚ʚ♡ɞ˚  
+In the meantime, feel free to explore my GitHub or  
+connect with me on LinkedIn.

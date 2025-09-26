@@ -9,14 +9,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
-    right: 
-      - icon: linkedin
-        href: https://www.linkedin.com/in/victoriawng/
-        target: blank
-      - icon: github
-        href: https://github.com/victoriawng
+      # - href: projects.qmd
+      #   text: Projects
+    # right: 
+    #   - icon: linkedin
+    #     href: https://www.linkedin.com/in/victoriawng/
+    #     target: blank
+    #   - icon: github
+    #     href: https://github.com/victoriawng
+    #     target: blank
       # - icon: person-circle
       #   href: assets/pfp.jpg
 
