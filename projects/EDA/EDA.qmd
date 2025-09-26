@@ -11,11 +11,9 @@ about:
     - icon: github
       text: "GitHub"
       href: "https://github.com/Beckyz3618/Project-6-SURE"
-    - icon: easel
-      text: "Slides"
-      href: "https://docs.google.com/presentation/d/1ufwmy4udNE9dI1IblxYxiLZNQq7S7O5c5jYV82ihs9M/edit?usp=sharing"
-      
-
+    # - icon: easel
+    #   text: "Slides"
+    #   href: "https://docs.google.com/presentation/d/1ufwmy4udNE9dI1IblxYxiLZNQq7S7O5c5jYV82ihs9M/edit?usp=sharing"
 ---
 
 This is my EDA project!
