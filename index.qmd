@@ -16,11 +16,15 @@ about:
       text: Email
       href: mailto:victorianguyen.edu@gmail.com
 ---
-I’m Victoria Nguyen!  
+I’m Victoria Nguyen  
   
 This site is currently under construction 🚧   
 as I prepare to graduate in May 2026  
 and apply for my first full-time role in data.  
 ˚ʚ♡ɞ˚  
-In the meantime, feel free to explore my GitHub or  
-connect with me on LinkedIn.
+I’m also learning Google’s Data Analytics and  
+Advanced Data Analytics courses  
+  
+
+In the meantime, feel free to also explore my GitHub  
+or connect with me on LinkedIn.
