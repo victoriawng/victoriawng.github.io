@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "projects/EDA/EDA.html",
-    "href": "projects/EDA/EDA.html",
-    "title": "EDA",
-    "section": "",
-    "text": "This is my EDA project!"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -14,10 +7,17 @@
     "text": "capstone\n\n\nThis is part of my summer 2025 project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEDA\n\n\nThis is part of my summer 2025 project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "projects/EDA/EDA.html",
+    "href": "projects/EDA/EDA.html",
+    "title": "EDA",
+    "section": "",
+    "text": "This is my EDA project!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "welcome ʕ•́ᴥ•̀ʔっ",
     "section": "",
-    "text": "I’m Victoria Nguyen\nThis site is currently under construction 🚧\nas I prepare to graduate in May 2026\nand apply for my first full-time role in data.\n˚ʚ♡ɞ˚\nI’m also learning Google’s Data Analytics and\nAdvanced Data Analytics courses\nIn the meantime, feel free to also explore my GitHub\nor connect with me on LinkedIn."
+    "text": "I’m Victoria Nguyen\nThis site is currently under construction 🚧\nas I prepare to graduate in May 2026\nand apply for my first full-time role in data.\n˚ʚ♡ɞ˚\nI’m also taking Google’s Data Analytics Professional Course.\nIn the meantime, feel free to also explore my GitHub\nor connect with me on LinkedIn."
   }
 ]
